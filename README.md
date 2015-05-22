@@ -1,0 +1,2 @@
+# shell-goto
+goto command
